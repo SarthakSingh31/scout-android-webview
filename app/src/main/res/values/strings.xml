@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">scout-android-webkit</string>
+    <string name="discovery">Discovery</string>
+    <string name="food">Food</string>
+    <string name="study">Study</string>
+    <string name="tech">Tech</string>
+</resources>
